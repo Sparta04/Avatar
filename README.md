@@ -1,2 +1,2 @@
 # Avatar
-The Results Summary component includes an avatar section designed to display a user’s profile picture or any relevant image. This section adds a personalized touch to the summary, enhancing the visual appeal and providing context about the data or results being presented.
+This project is an avatar website, designed to showcase a collection of avatars with a fully responsive layout. It demonstrates my skills in web development using only HTML and CSS.
